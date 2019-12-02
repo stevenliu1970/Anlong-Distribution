@@ -1,0 +1,10 @@
+{
+    "SYSTEM_NAME": "TV Write-off and Inspection(Anlong Electronics Pty. Led.)",
+    "TESSERACT_CMD": "./tesseract/tesseract",
+    "ROTATEIMAGES": "True",
+    "MOSTLIKE_THRESHOLD": 0.5,
+    "THUMBNAIL_SIZE_WIDTE": 1024,
+    "THUMBNAIL_SIZE_HEIGHT": 1024,
+    "DOC_REPORT_PAGE_WIDTH": 18.5,
+    "DOC_REPORT_PAGE_HEIGHT": 26.2
+}
