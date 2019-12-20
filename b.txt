@@ -1,1 +1,1 @@
-'this is b.txt in branch testing'
+'b.txt in branch testing'
