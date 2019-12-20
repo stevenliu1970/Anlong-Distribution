@@ -1,13 +1,11 @@
-D:/AnlongData/2/panellabel
-11
-IMG_2780##08C14KV94C2014Q.jpeg                08C14KV94C2014Q               
-IMG_2817##1500395C00CLP.jpeg                1500395C00CLP                 
-IMG_2865##09C3LPH94QAN056.jpeg                09C3LPH94QAN056               
-IMG_2870##TA910203BK030128Y1MD.jpeg                TA910203BK030128Y1MD          
-IMG_2878##TA8C2930BZ010128Y1MD.jpeg                                              
-IMG_2886##08C14KW93T202CM.jpeg                08C14KW93T202CM               
-IMG_2894##08C14MJ9332006J.jpeg                08C14MJ9332006J               
-IMG_2902##TA942008BP04302CY1MD.jpeg                TA942008BP04302CY1MD          
-IMG_2914##SFJE1T190B.jpeg                                              
-IMG_2922##08C14KW93T20296.jpeg                                              
-IMG_2946##08C14MJ93Y202AT.jpeg                08C14MJ93Y202AT               
+D:/AnlongData/4/SETLABEL
+9
+WeChat Image_20191206105912.jpg         SOUF1  1907ALZ143271O06505           
+WeChat Image_20191206111412.jpg         SOUF1  1905ALZ141932J04120           
+WeChat Image_20191206112219.jpg                1907ALZ143271O05196           
+WeChat Image_20191206113630.jpg                1907ALZ143271O01638           
+WeChat Image_20191206114448.jpg         SOUF1  1907ALZ143136P01032           
+WeChat Image_20191206120305.jpg          S0UR  1908ALZ143831B00079           
+WeChat Image_20191206121035.jpg          32F1  1905ALZ141932H02906           
+WeChat Image_20191206122428.jpg          32F1  1905ALZ141932H00772           
+WeChat Image_20191206123440.jpg                1905ALZ141932H01185           
